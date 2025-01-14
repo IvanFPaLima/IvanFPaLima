@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web page first creation
 - 📫 How to reach me: ivanfplima@gmail.com
 - 😄 Pronouns: ivan
-- ⚡ Fun fact: I am losr here!!
+- ⚡ Fun fact: I am lost here!!
 
 <!---
 IvanFPaLima/IvanFPaLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
